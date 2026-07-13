@@ -31,8 +31,8 @@ data/*.csv
 !data/PLACEHOLDER.txt
 
 # Model files (keep structure, ignore actual models)
-models/*.pkl
-!models/PLACEHOLDER.txt
+*.pkl
+model.pkl
 
 # Results
 reports/model_results_summary.csv
