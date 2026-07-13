@@ -121,14 +121,47 @@ These findings align with existing psychological literature regarding treatment 
 ## Repository Structure
 
 ```
-├── Dataset.csv
-├── preprocessing.py
-├── train_model.py
-├── prediction.py
-├── feature_analysis.py
-├── requirements.txt
-├── README.md
-└── Research Paper
+Placebo-Effect-project/
+│
+├── app.py                         # Streamlit application for model prediction
+├── main.py                        # Main execution script
+├── README.md                      # Project documentation
+├── requirements.txt               # Python dependencies
+├── .gitignore                     # Git ignored files configuration
+│
+├── data/
+│   └── PLACEHOLDER.txt            # Placeholder for dataset directory
+│
+├── models/
+│   ├── __init__.py
+│   ├── quicktrain.py               # Quick model training script
+│   ├── quick_training_summary.csv
+│   ├── quick_training_summary.txt
+│   └── PLACEHOLDER.txt
+│
+├── src/
+│   ├── __init__.py
+│   ├── preprocessing.py            # Data preprocessing pipeline
+│   ├── train_model.py              # Model training pipeline
+│   ├── evaluate_model.py           # Model evaluation functions
+│   ├── predict.py                  # Prediction utilities
+│   └── eda.py                      # Exploratory data analysis
+│
+└── reports/
+    ├── final_report.md             # Project analysis report
+    ├── cv_results.csv              # Cross-validation results
+    ├── tuning_results.csv          # Hyperparameter tuning results
+    ├── quick_model_results_summary.csv
+    │
+    └── figures/
+        ├── Age Distribution of Placebo Response.jpg
+        ├── Confusion Matrices.jpg
+        ├── Correlation Heatmap.jpg
+        ├── Distribution of Psych traits.jpg
+        ├── Feature Correlation.jpg
+        ├── Placebo Response Analysis Graphs.jpg
+        ├── Results.jpg
+        └── ROC Curves Comparison.jpg
 ```
 
 *(Repository structure may vary depending on uploaded files.)*
