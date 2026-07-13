@@ -99,7 +99,7 @@ Implemented with an RBF kernel for non-linear classification.
 
 ## Results
 
-![Model Results](reports/figures/Results.png)
+![Model Results](reports/figures/Results.jpg)
 
 Random Forest achieved the highest overall performance and was selected as the final prediction model.
 
