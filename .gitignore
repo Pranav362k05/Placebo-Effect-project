@@ -24,8 +24,7 @@ wheels/
 *.egg
 
 # Jupyter Notebook
-.ipynb_checkpoints
-*.ipynb
+.ipynb_checkpoints/
 
 # Data files (keep structure, ignore actual data)
 data/*.csv
