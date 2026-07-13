@@ -99,10 +99,7 @@ Implemented with an RBF kernel for non-linear classification.
 
 ## Results
 
-| Model | Accuracy | ROC-AUC |
-| Random Forest | **82%** | **0.91** |
-| SVM | 81% | 0.90 |
-| Logistic Regression | 80% | 0.90 |
+![Model Results](reports/figures/Results.png)
 
 Random Forest achieved the highest overall performance and was selected as the final prediction model.
 
