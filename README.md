@@ -186,6 +186,36 @@ Future improvements include:
 - Pranav Krishna Y
 - Potnuru Koushik
 
+## Results Visualization
+
+### Model Performance Comparison
+
+![Model Performance Comparison](reports/figures/Placebo%20Response%20Analysis%20Graphs.jpg)
+
+### ROC Curve Analysis
+
+![ROC Curve Analysis](reports/figures/ROC%20Curves%20Comparison.jpg)
+
+### Confusion Matrices
+
+![Confusion Matrices](reports/figures/Confusion%20Matrices.jpg)
+
+### Correlation Heatmap
+
+![Correlation Heatmap](reports/figures/Correlation%20Heatmap.jpg)
+
+### Feature Correlation
+
+![Feature Correlation](reports/figures/Feature%20Correlation.jpg)
+
+### Age Distribution of Placebo Response
+
+![Age Distribution](reports/figures/Age%20Distribution%20of%20Placebo%20Response.jpg)
+
+### Distribution of Psychological Traits
+
+![Distribution of Psychological Traits](reports/figures/Distribution%20of%20Psych%20traits.jpg)
+
 
 ## Citation
 
