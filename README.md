@@ -255,3 +255,5 @@ Future improvements include:
 ## Citation
 
 If you reference this work, please cite the corresponding IEEE CONIT 2026 paper.
+
+DOI: <a href="https://doi.org/10.1109/CONIT69683.2026.11620699" target="_blank">10.1109/CONIT69683.2026.11620699</a>
