@@ -4,6 +4,11 @@ Machine Learning research project for predicting placebo responsiveness using ps
 
 This work was presented at the **6th IEEE International Conference on Intelligent Technologies (CONIT 2026)** and explores how psychological characteristics influence an individual's likelihood of exhibiting a placebo response through supervised machine learning models.
 
+Analyzing Psychological Factors Influencing Placebo Response Using Machine Learning
+Published in 2026 IEEE 6th International Conference on Intelligent Technologies (CONIT), IEEE
+
+• DOI: <a href="https://doi.org/10.1109/CONIT69683.2026.11620699" target="_blank">10.1109/CONIT69683.2026.11620699</a>
+
 
 ## Overview
 
